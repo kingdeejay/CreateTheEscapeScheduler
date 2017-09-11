@@ -18,3 +18,5 @@ Create The Escape Uses asp.net.
 * admin users will have quick access to schedule changes to allow for dynamic updating of posted Scheduling
 
 * 0.0.1 build will only focus on dealer schedules
+
+* the app will be mobile first keeping in mind the possibily of being a cellphone app for both play store and iTunes
